@@ -15,7 +15,8 @@ let str3 = "Rama";
 
 // document.write(isPalindrome(str1));
 if(isPalindrome(str3)){
-document.write('this is the palindrom');
+document.write
+('this is the palindrom');
 
 }else{
 document.write('this is not palindrom');
